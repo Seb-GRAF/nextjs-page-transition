@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Page2() {
   return (
     <section className='flex flex-col gap-8 items-center'>
-      <h2 className='text-4xl font-semibold bg-emerald-200 px-4 py-2'>
-        Home page
+      <h2 className='text-4xl font-semibold bg-yellow-200 px-4 py-2'>
+        Second Page
       </h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis dolor
